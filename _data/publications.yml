@@ -9,7 +9,6 @@ main:
 
   - title: "MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation"
     authors: Sitong Su, <strong>Litao Guo</strong>. Lianli Gao, Heng Tao Shen, Jingkuan Song
-
     conference_short: Axiv
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     page: https://sitongsu.github.io/MotionZero_.github.io/

@@ -4,20 +4,20 @@ main:
     authors: <strong>Litao Guo*</strong>, Sitong Su*, Lianli Gao, Heng Tao Shen, Jingkuan Song (*Corresponding authors)
     conference_short: Axiv
     conference: Axiv
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://arxiv.org/pdf/2312.07549
     code: https://sitongsu.github.io/MotionZero_.github.io/
     page: https://litaoguo.github.io/Make-A-Storyboard.github.io/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: h
+    notes: 
     image: ./assets/img/pub_story.png
 
   - title: "MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation"
     authors: Sitong Su, <strong>Litao Guo</strong>. Lianli Gao, Heng Tao Shen, Jingkuan Song
     conference_short: Axiv
     conference: Axiv
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/pdf/2311.16635
     code: https://sitongsu.github.io/MotionZero_.github.io/
     page: https://sitongsu.github.io/MotionZero_.github.io/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: h
+    notes: 
     image: ./assets/img/pub_motion.png

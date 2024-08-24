@@ -2,8 +2,8 @@ main:
 
   - title: "Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control"
     authors: <strong>Litao Guo*</strong>, Sitong Su*, Lianli Gao, Heng Tao Shen, Jingkuan Song (*Corresponding authors)
-    conference_short: Axiv
-    conference: Axiv
+    conference_short: Arxiv
+    conference: Arxiv
     pdf: https://arxiv.org/pdf/2312.07549
     code: https://sitongsu.github.io/MotionZero_.github.io/
     page: https://litaoguo.github.io/Make-A-Storyboard.github.io/
@@ -13,11 +13,22 @@ main:
 
   - title: "MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation"
     authors: Sitong Su, <strong>Litao Guo</strong>. Lianli Gao, Heng Tao Shen, Jingkuan Song
-    conference_short: Axiv
-    conference: Axiv
+    conference_short: Arxiv
+    conference: Arxiv
     pdf: https://arxiv.org/pdf/2311.16635
     code: https://sitongsu.github.io/MotionZero_.github.io/
     page: https://sitongsu.github.io/MotionZero_.github.io/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: 
     image: ./assets/img/pub_motion.png
+
+  - title: "B vitamin dynamics during pregnancy and the risk of postpartum anemia"
+    authors: Served as the third author
+    conference_short: 
+    conference: 
+    pdf: 
+    code: https://github.com/statsle/B-vitamins-and-postpartum-anemia-risks
+    page: https://github.com/statsle/B-vitamins-and-postpartum-anemia-risks
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: 
+    image: ./assets/img/pub_Bvita.png

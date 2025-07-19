@@ -9,7 +9,7 @@ main:
     page: https://litaoguo.github.io/ComfyMind.github.io/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: 
-    image: ./assets/img/pub_comfymind.png
+    image: ./assets/img/comfymind.png
 
   - title: "Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study"
     authors: Xianghong Fang, <strong>Litao Guo</strong>, Hengchao Chen, Yuxuan Zhang, XiaofanXia, Dingjie Song, Yexin Liu, Hao Wang, Harry Yang, Yuan Yuan, Qiang Sun
@@ -19,7 +19,7 @@ main:
     code: https://github.com/vq-research/wasserstein-vq
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: 
-    image: ./assets/img/pub_vq.png
+    image: ./assets/img/vq.png
 
   - title: "Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control"
     authors: <strong>Litao Guo*</strong>, Sitong Su*, Lianli Gao, Heng Tao Shen, Jingkuan Song (*Corresponding authors)

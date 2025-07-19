@@ -1,5 +1,26 @@
 main:
 
+  - title: "ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback"
+    authors: <strong>Litao Guo*</strong>, Xinli Xu*, Luozhou Wang, Jiantao Lin, Jinsong Zhou, Zixin Zhang, Bolan Su, Ying-Cong Chen (*Corresponding authors)
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2505.17908
+    code: https://github.com/EnVision-Research/ComfyMind
+    page: https://litaoguo.github.io/ComfyMind.github.io/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: 
+    image: ./assets/img/pub_comfymind.png
+
+  - title: "Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study"
+    authors: Xianghong Fang, <strong>Litao Guo</strong>, Hengchao Chen, Yuxuan Zhang, XiaofanXia, Dingjie Song, Yexin Liu, Hao Wang, Harry Yang, Yuan Yuan, Qiang Sun
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2506.15078
+    code: https://github.com/vq-research/wasserstein-vq
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: 
+    image: ./assets/img/pub_vq.png
+
   - title: "Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control"
     authors: <strong>Litao Guo*</strong>, Sitong Su*, Lianli Gao, Heng Tao Shen, Jingkuan Song (*Corresponding authors)
     conference_short: Arxiv

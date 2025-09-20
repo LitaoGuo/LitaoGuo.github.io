@@ -2,8 +2,8 @@ main:
 
   - title: "ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback"
     authors: <strong>Litao Guo*</strong>, Xinli Xu*, Luozhou Wang, Jiantao Lin, Jinsong Zhou, Zixin Zhang, Bolan Su, Ying-Cong Chen (*Corresponding authors)
-    conference_short: Arxiv
-    conference: Arxiv
+    conference_short: NIPS 25
+    conference: NeurIPS 2025
     pdf: https://arxiv.org/abs/2505.17908
     code: https://github.com/EnVision-Research/ComfyMind
     page: https://litaoguo.github.io/ComfyMind.github.io/

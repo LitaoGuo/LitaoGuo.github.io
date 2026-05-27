@@ -16,7 +16,7 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      {% assign primary_url = link.pdf | default: link.page | default: link.openreview | default: link.code %}
+      {% assign primary_url = link.pdf | default: link.page | default: link.code %}
       <div class="title"><a href="{{ primary_url }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
@@ -30,9 +30,6 @@
       {% endif %}
       {% if link.code %}
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.openreview %}
-      <a href="{{ link.openreview }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
       {% endif %}
       {% if link.bibtex %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>

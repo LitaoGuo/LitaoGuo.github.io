@@ -1,55 +1,84 @@
 main:
 
-  - title: "ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback"
-    authors: <strong>Litao Guo*</strong>, Xinli Xu*, Luozhou Wang, Jiantao Lin, Jinsong Zhou, Zixin Zhang, Bolan Su, Ying-Cong Chen (*Corresponding authors)
-    conference_short: NIPS 25
-    conference: NeurIPS 2025
-    pdf: https://arxiv.org/abs/2505.17908
-    code: https://github.com/EnVision-Research/ComfyMind
-    page: https://litaoguo.github.io/ComfyMind.github.io/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: 
-    image: ./assets/img/comfymind.png
-
-  - title: "Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study"
-    authors: Xianghong Fang, <strong>Litao Guo</strong>, Hengchao Chen, Yuxuan Zhang, XiaofanXia, Dingjie Song, Yexin Liu, Hao Wang, Harry Yang, Yuan Yuan, Qiang Sun
-    conference_short: Arxiv
-    conference: Arxiv
-    pdf: https://arxiv.org/abs/2506.15078
-    code: https://github.com/vq-research/wasserstein-vq
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: 
-    image: ./assets/img/vq.png
-
   - title: "Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control"
-    authors: <strong>Litao Guo*</strong>, Sitong Su*, Lianli Gao, Heng Tao Shen, Jingkuan Song (*Corresponding authors)
-    conference_short: Arxiv
-    conference: Arxiv
-    pdf: https://arxiv.org/pdf/2312.07549
-    code: https://sitongsu.github.io/MotionZero_.github.io/
+    authors: "Sitong Su, <strong>Litao Guo</strong>, Lianli Gao, Heng Tao Shen, Jingkuan Song"
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2312.07549, 2023"
+    pdf: https://arxiv.org/abs/2312.07549
     page: https://litaoguo.github.io/Make-A-Storyboard.github.io/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: 
     image: ./assets/img/pub_story.png
 
-  - title: "MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation"
-    authors: Sitong Su, <strong>Litao Guo</strong>. Lianli Gao, Heng Tao Shen, Jingkuan Song
-    conference_short: Arxiv
-    conference: Arxiv
-    pdf: https://arxiv.org/pdf/2311.16635
-    code: https://sitongsu.github.io/MotionZero_.github.io/
+  - title: "ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback"
+    authors: "<strong>Litao Guo</strong>, Xinli Xu, Luozhou Wang, Jiantao Lin, Jinsong Zhou, Zixin Zhang, Bolan Su, Ying-Cong Chen"
+    conference_short: NeurIPS 25
+    conference: NeurIPS 2025
+    pdf: https://arxiv.org/abs/2505.17908
+    page: https://litaoguo.github.io/ComfyMind.github.io/
+    code: https://github.com/EnVision-Research/ComfyMind
+    image: ./assets/img/comfymind.png
+
+  - title: "MotionZero: Exploiting Motion Priors for Zero-shot Text-to-Video Generation"
+    authors: "Sitong Su, <strong>Litao Guo</strong>, Lianli Gao, Heng Tao Shen, Jingkuan Song"
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2311.16635, 2023"
+    pdf: https://arxiv.org/abs/2311.16635
     page: https://sitongsu.github.io/MotionZero_.github.io/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: 
     image: ./assets/img/pub_motion.png
 
-  - title: "B vitamin dynamics during pregnancy and the risk of postpartum anemia"
-    authors: Served as the third author
-    conference_short: 
-    conference: 
-    pdf: 
-    code: https://github.com/statsle/B-vitamins-and-postpartum-anemia-risks
-    page: https://github.com/statsle/B-vitamins-and-postpartum-anemia-risks
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: 
+  - title: "Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study"
+    authors: "Xianghong Fang, <strong>Litao Guo</strong>, Hengchao Chen, Yuxuan Zhang, Dingjie Song, Yexin Liu, Hao Wang, Harry Yang, Yuan Yuan, Qiang Sun"
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2506.15078, 2025"
+    pdf: https://arxiv.org/abs/2506.15078
+    code: https://github.com/vq-research/wasserstein-vq
+    openreview: https://openreview.net/forum?id=2RoX59ldUP
+    image: ./assets/img/vq.png
+
+  - title: "PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs"
+    authors: "Zixin Zhang, Kanghao Chen, Xingwang Lin, Lutao Jiang, Xu Zheng, Yuanhuiyi Lyu, <strong>Litao Guo</strong>, Yinchuan Li, Ying-Cong Chen"
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2510.09507, 2025"
+    pdf: https://arxiv.org/abs/2510.09507
+    page: https://github.com/PhysToolBench/PhysToolBench
+    openreview: https://openreview.net/forum?id=jaYdn7RbRO
+    image: ./assets/img/phystoolbench.png
+
+  - title: "A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning"
+    authors: "Zixin Zhang, Kanghao Chen, Hanqing Wang, Hongfei Zhang, Harold Haodong Chen, Chenfei Liao, <strong>Litao Guo</strong>, Ying-Cong Chen"
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2512.14442, 2025"
+    pdf: https://arxiv.org/abs/2512.14442
+    code: https://github.com/EnVision-Research/A4-Agent
+    image: ./assets/img/a4_agent.png
+
+  - title: "PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback"
+    authors: "Sirui Chen, Jinsong Zhou, Xinli Xu, Xiaoyu Yang, <strong>Litao Guo</strong>, Ying-Cong Chen"
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2511.15253, 2025"
+    pdf: https://arxiv.org/abs/2511.15253
+    image: ./assets/img/presentcoach.png
+
+  - title: "Show, Don't Tell: Morphing Latent Reasoning into Image Generation"
+    authors: "Harold Haodong Chen, Xinxiang Yin, Wen-Jie Shu, Hongfei Zhang, Zixin Zhang, Chenfei Liao, <strong>Litao Guo</strong>, Qifeng Chen, Ying-Cong Chen"
+    conference_short: ICML 26
+    conference: "ICML 2026, arXiv:2602.02227"
+    pdf: https://arxiv.org/abs/2602.02227
+    code: https://github.com/EnVision-Research/LatentMorph
+    image: ./assets/img/latentmorph.png
+
+  - title: "Panoramic Affordance Prediction"
+    authors: "Zixin Zhang, Chenfei Liao, Hongfei Zhang, Harold Haodong Chen, Kanghao Chen, Zichen Wen, <strong>Litao Guo</strong>, Bin Ren, Xu Zheng, Yinchuan Li, Xuming Hu, Nicu Sebe, Ying-Cong Chen"
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2603.15558, 2026"
+    pdf: https://arxiv.org/abs/2603.15558
+    page: https://zixinzhang02.github.io/Panoramic-Affordance-Prediction/
+    code: https://github.com/EnVision-Research/PAP
+    image: ./assets/img/panoramic_affordance.png
+
+  - title: "Multiple B Vitamins Dynamics During Pregnancy and the Risk of Immediate Postpartum Anemia: A Longitudinal Birth Cohort Study"
+    authors: "Jieling Wu, Mengtong Yang, <strong>Litao Guo</strong>, Peisi He, Di Wang, Ruikun He, Chuhui Qiu, Baolin Liang, Chaoming Deng, Yong Guo, Qiang Sun, Zhongxia Li"
+    conference_short: Nutr. Metab.
+    conference: "Nutrition & Metabolism, 2026"
+    pdf: https://link.springer.com/content/pdf/10.1186/s12986-026-01097-1.pdf
+    page: https://link.springer.com/article/10.1186/s12986-026-01097-1
     image: ./assets/img/Bvita.png

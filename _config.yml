@@ -1,19 +1,19 @@
 # Basic Information 
 title: Litao Guo(郭力涛)
-position: Ph.D student, ByteDance intern
-affiliation: HKUST（GZ）
+position: Ph.D. Student
+affiliation: HKUST(GZ)
+affiliation_link: https://www.hkust-gz.edu.cn/
 email: guolitauo (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: AI Agent, AIGC, generation models, multimodal reasoning, embodied AI, affordance reasoning, vector quantization
+description: Personal homepage of Litao Guo, a Ph.D. student at HKUST(GZ) working on AI agents, generative models, and embodied multimodal reasoning.
+canonical: https://litaoguo.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=en&user=efdm760AAAAJ
-cv_link: assets/files/Litao Guo CV&Transcript.pdf
 github_link: https://github.com/LitaoGuo
 
 # Images (e.g., your profile picture and your website's favicon) 
